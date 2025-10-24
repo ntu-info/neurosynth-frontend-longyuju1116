@@ -25,5 +25,5 @@ Static frontend (HTML + JS + Tailwind via CDN) for exploring Neurosynth terms, r
 ## API Endpoints
 
 - GET https://mil.psy.ntu.edu.tw:5000/terms
-- GET https://mil.psy.ntu.edu.tw:5000/terms/<t1>
-- GET https://mil.psy.ntu.edu.tw:5000/query/<q_string>/studies
+- GET https://mil.psy.ntu.edu.tw:5000/terms/<t1>  
+- GET https://mil.psy.ntu.edu.tw:5000/query/<q_string>/studies  
